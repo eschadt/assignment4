@@ -1,4 +1,4 @@
-# assignment4
+# SVG ICONS 
 
 This repo contains individual svg files, and a sprite file that contains all the svg files so that they can be used as an icon system.
 
